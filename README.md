@@ -41,3 +41,7 @@ Citation information will be added following publication of the associated paper
 ## Disclaimer
 
 TESSA is an educational artifact and does not provide legal advice. The dataset reflects the evaluation design and regulatory sources used at the time of the study.
+
+## License
+
+This dataset is available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
